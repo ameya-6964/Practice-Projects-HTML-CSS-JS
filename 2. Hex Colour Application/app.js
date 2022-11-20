@@ -242,7 +242,7 @@ function savePalette(e) {
     colors.push(hex.innerText);
   });
   //Generate Object
-  //*1
+  
   // const paletteObjects = JSON.parse(localStorage.getItem("palettes"));
   // let paletteNr;
   // if (paletteObjects) {
